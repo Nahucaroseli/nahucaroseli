@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on proyects
-- 👯 I’m looking to collaborate on Java/Angular
+- 👯 I’m looking to collaborate on Java/React
 - 💬 Ask me about Anything
 - 📫 How to reach me: nahucaroseli2100@gmail.com
 
